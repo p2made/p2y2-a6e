@@ -25,6 +25,6 @@
 		"yiisoft/yii2": "~2.0.14",
 		"yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
 		"p2made/p2y2-things": "^5.0",
-		"p2made/p2y2-things-demo": "^5.0",
+		"p2made/p2y2-things-demo": "^5.0"
 	}
 }
