@@ -22,19 +22,19 @@ composer create-project --prefer-dist yiisoft/yii2-app-advanced yii-application
 Depending on your Composer setup, run *one* of the following commands:
 
 ```
-composer require p2made/p2y2-a6e "^5.0"
+composer require p2made/p2y2-a6e "dev-5.0.0-dev"
 ```
 
 or
 
 ```
-php composer.phar require p2made/p2y2-a6e "^5.0"
+php composer.phar require p2made/p2y2-a6e "dev-5.0.0-dev"
 ```
 
 *or* add:
 
 ```
-		"p2made/p2y2-a6e": "^5.0"
+		"p2made/p2y2-a6e": "dev-5.0.0-dev"
 ```
 
 to the requires section of your `composer.json` & run `composer update`.
