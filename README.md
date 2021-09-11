@@ -1,11 +1,10 @@
-Yii 2 Advanced 6 Ends v4.0.0-alpha
-=====================
+# Yii 2 Advanced 6 Ends 5.0.0
 
-[![License](https://poser.pugx.org/p2made/yii2-a6e/license)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
-[![Total Downloads](https://poser.pugx.org/p2made/yii2-a6e/downloads)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
-[![Monthly Downloads](https://poser.pugx.org/p2made/yii2-a6e/d/monthly)](https://packagist.org/packages/p2made/yii2-p2y2-things)
-[![Latest Stable Version](https://poser.pugx.org/p2made/yii2-a6e/v/stable)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
-[![Latest Unstable Version](https://poser.pugx.org/p2made/yii2-a6e/v/unstable)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
+[![License](https://poser.pugx.org/p2made/p2y2-a6e/license)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
+[![Total Downloads](https://poser.pugx.org/p2made/p2y2-a6e/downloads)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
+[![Monthly Downloads](https://poser.pugx.org/p2made/p2y2-a6e/d/monthly)](https://packagist.org/packages/p2made/yii2-p2y2-things)
+[![Latest Stable Version](https://poser.pugx.org/p2made/p2y2-a6e/v/stable)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
+[![Latest Unstable Version](https://poser.pugx.org/p2made/p2y2-a6e/v/unstable)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
 
 ---
 
@@ -23,36 +22,36 @@ composer create-project --prefer-dist yiisoft/yii2-app-advanced yii-application
 Depending on your Composer setup, run *one* of the following commands:
 
 ```
-composer require p2made/yii2-a6e "~4.0"
+composer require p2made/p2y2-a6e "^5.0"
 ```
 
 or
 
 ```
-php composer.phar require p2made/yii2-a6e "~4.0"
+php composer.phar require p2made/p2y2-a6e "^5.0"
 ```
 
 *or* add:
 
 ```
-	"p2made/yii2-a6e": "~4.0"
+		"p2made/p2y2-a6e": "^5.0"
 ```
 
 to the requires section of your `composer.json` & run `composer update`.
 
-`yii2-a6e` installs...
+`p2y2-a6e` installs...
 
 ```
-	p2made/yii2-p2y2-things
-	p2made/yii2-p2y2-things-demo
-	p2made/yii2-startbootstrap-themes
-	p2made/yii2-sb-admin-theme
+	p2made/p2y2-things
+	p2made/p2y2-things-demo
+	p2made/p2y2-startbootstrap-themes
+	p2made/p2y2-sb-admin-theme
 ```
 
 *Three*... run...
 
 ```
-cp -r ./vendor/p2made/yii2-a6e/environments ./
+cp -r ./vendor/p2made/p2y2-a6e/environments ./
 ```
 
 The `environments` folder will be replaced.
