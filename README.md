@@ -75,7 +75,7 @@ If there are any application ends that you won't use, you can delete those folde
 
 In `common/config/bootstrap.php` edit the last line...
 ```
-	Yii::setAlias('assetsUrl', 'http://static.a4e-dev.dev');
+	Yii::setAlias('assetsUrl', 'http://static.a6e-dev.dev');
 ```
 to have the URL for your static/assets application end.
 
